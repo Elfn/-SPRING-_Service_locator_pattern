@@ -1,7 +1,7 @@
 # -SPRING-_Service_locator_pattern
 
 Implémentation du modèle de localisation de service à travers une petite application
-qui permet d'ingérer des donnée à partir de différentes sources
+qui permet d'ingérer des données à partir de différentes sources
 
 But de l'application -> Convertir différents types de contenu tels que  CSV, JSON etc...
 
