@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import java.io.IOException;
 import java.util.List;
 
+@org.springframework.stereotype.Service
 public class Service {
 
     //We removed that code to make it more dynamic and less unwieldy when we want to add new contentType
