@@ -24,9 +24,10 @@ Modèle localisateur de service:
 
 -Le but est d'avoir un objet qui sait comment retourner tous les services 
 dont une application à besoin
+
 -Retirer la dépendance qu'un client a sur une implémentation spécifique
 
-COMPOSNT DE CONCEPTION:
+COMPOSANT DE CONCEPTION:
 
 Client: Consommateur qui exige le service au lancement
 
@@ -41,4 +42,4 @@ Fabrique de service/Service Factory: Il fournit le cycle de vie de gestion du se
 , et supprimer un service
 
 
-Service: Implémentation conrète du service voulu par le client
+Service: Implémentation concrète du service voulu par le client
